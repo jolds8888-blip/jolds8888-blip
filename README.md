@@ -18,3 +18,9 @@
   <h3>📊 Аналитика Кода</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=jolds8888-blip&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
+<br><br>
+<h3>🐍 Активность</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jolds8888-blip/jolds8888-blip/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jolds8888-blip/jolds8888-blip/output/github-contribution-grid-snake.svg">
+</picture>
