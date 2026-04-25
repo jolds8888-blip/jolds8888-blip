@@ -1,7 +1,13 @@
 <div align="center">
-  <img src="https://i.postimg.cc/q7rd8MqZ/logo-gx-720.png" width="100%" alt="Hero Banner" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 255, 204, 0.1);">
+  <img src="https://i.postimg.cc/mhW2fC3g/pic-6.png" width="100%" alt="Hero Banner" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 255, 204, 0.1);">
 
   <br><br>
+
+  <p align="center" style="font-size: 16px; color: #8B949E; max-width: 800px; margin: 0 auto;">
+    <i>"Elite Full-Stack Architect. I build flawless user interfaces and power them with high-throughput server architectures. From pixel-perfect UI to scalable microservices and AI-driven workflows. Bridging complex backend logic with a seamless digital experience."</i>
+  </p>
+  
+  <br>
   
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=SYSTEM+STATUS:+ACTIVE;QUANTITATIVE+CRYPTO+BOT+ENGINE;GO_SPEED+_+PYTHON_MATH;BUILDING+AUTONOMOUS+SYSTEMS" alt="Typing SVG" />
 
@@ -101,15 +107,20 @@
 <div align="center">
 <pre>
 <code>
-[Market Data WSS] ──────► (Go Zero-Alloc Pool) ──────► [Go Worker Pool]
-                                                             │
-                                                             │ (Fast execution)
-                                                             ▼
-[PyTorch Attention] ◄────── (gRPC/Protobuf) ◄────── [Python Strategy Engine]
-   (Signal Gen)                                              │
-                                                             │
-                                                             ▼
-                                                    [Exchange API]
+┌────────────────────────────────────────────────────────────────────────┐
+│                 HIGH-FREQUENCY TRADING TOPOLOGY (HFT)                  │
+└────────────────────────────────────────────────────────────────────────┘
+         │                                                │
+  [🌐 Market Data WSS]                             [🏦 Exchange API]
+         │                                                ▲
+         ▼                                                │
+  [⚡ Go Zero-Alloc Pool]                         [⚡ Go Worker Pool]
+         │                                                ▲
+         │ (High-throughput stream)                       │ (Order Execution)
+         ▼                                                │
+  [🐍 Python Strategy Engine] ◄═══ (gRPC) ═══► [🧠 PyTorch Attention Layer]
+         │                                                │
+         └──────────────── (Signal Generation) ───────────┘
 </code>
 </pre>
 </div>
